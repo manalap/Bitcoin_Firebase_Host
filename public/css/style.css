@@ -95,6 +95,7 @@ p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
+  color: aqua;
 }
 
 /* CSS TOP MARGINS * -------------------------- */
@@ -285,11 +286,7 @@ header .bwt-header-content .bwt-header-content-inner h2 {
   font-size: 26px;
   font-weight:200;
 }
-.bwt-click-to-bottom {
-    font-size: 40px;
-    line-height: 40px;
-    -webkit-animation: bounce 2s infinite ease-in-out;
-}
+
 .bwt-click-to-bottom i {
     color: #fff;
     padding: 20px 20px;
@@ -298,14 +295,7 @@ header .bwt-header-content .bwt-header-content-inner h2 {
     font-size: 15px;
     background: #f39c12;
 }
-@-webkit-keyframes bounce {
-	0%, 20%, 60%, 100%  { -ms-transform: translateY(0); }
-	0%, 20%, 60%, 100%  { -o-transform: translateY(0); }
-	0%, 20%, 60%, 100%  { -moz-transform: translateY(0); }
-	0%, 20%, 60%, 100%  { -webkit-transform: translateY(0); }
-    40%  { -webkit-transform: translateY(-20px); }
-	80% { -webkit-transform: translateY(-10px); }
-}
+ 
 
 /* ABOUT * -------------------------- */
 
